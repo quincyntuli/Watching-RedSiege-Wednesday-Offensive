@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,11 +84,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "72bd4503719726bf",
   "lastOpenFiles": [
-    "Readme.md"
+    "Readme.md",
+    "2022-01-12/Readme.md",
+    "2022-01-05/Readme.md"
   ]
 }
