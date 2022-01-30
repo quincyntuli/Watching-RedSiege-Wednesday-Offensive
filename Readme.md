@@ -20,9 +20,6 @@ Snow was talking about physical security and the ways in which you could try to 
 	- Immigration officer
 
 ### Books Recommendation
-
- 
-### Links
 [source : Red Siege Discord](https://l.facebook.com/l.php?u=https%3A%2F%2Fredsiege.com%2Fdiscord&h=AT3Boc8UpYZVR1S58JkvrRI6qoR6JVnyBevN3GHM8vOv_GRIh7MVXR3xDF3CRP44KSBvMG8wUp0d-EnQUhumBPfpHHNEdjYwuV6nGY1OVSkeFiy6kfXdogsMCes2n0MphaCsJ0VVIYCVXCxsELE7jf0nF2rvEaa31daeZshQl2rjpoPSjKVAcA13Bj1F1j2-0NqXGXFlFGmnDUsSC8zG5YQXoUCtqtAzM35GxRdKtWdpEu9Fp7j5dZbPkuLifCODWtOTFRm2hE1RtEUGqRXgPsMhJgFDHB4N9LpHPHGt_G7eVWCE03yiDnmjTUg_DBdl_swEbLeFkQa5j31U4imv4zjqBjkPciRsiPHds6qnphVvqQhotvWg-MIuAavb8KlkHLYPsM8G3I5wRfsPvBhI3sg8-7nZnVMs84fClD6ZKyAdA_OIIT_Q4-Mm8oGmcrjfKxVJdPMLOeNfm7qVUGT5Y5ju5orS4HF5wVLkMDasxVjBnrj2ECSe8D9DjmOa9rs8ZMb8Rd6s-EKye6zBj-fgvy5p1uHqyDGhMNmZYVfM6_iWvzxAD9BcYCxW5454Mr4J9qEnKdSbgZje1XoLaj2Xzvn85Iw2h5Yp)
 
 
