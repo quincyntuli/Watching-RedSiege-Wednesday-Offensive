@@ -1,6 +1,6 @@
 # Stephanie "Snow" Carruthers
 #### stream date : 2022-Jan-05
-[twitter:](https://twitter.com/_sn0ww)
+[twitter:](https://twitter.com/_sn0ww)<br>
 [Youtube](https://www.youtube.com/results?search_query=Stephanie+%22Snow%22+Carruthers)
 
 ## Physical Security
