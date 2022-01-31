@@ -41,11 +41,11 @@ When Microsoft turns security options on, they get criticized and when they don'
 	> - TPM 2.0
 	> -  Secure Boot
 
-### Topic - 02 : Patching
+## Topic - 02 : Patching
 
 > - Delta patches to deal with 'DLL-Hell'
 > - Hot-patching (function level patching) of live systems to avoid reboots
 
-### Topic - 03 : Practical Components on Certs
+## Topic - 03 : Practical Components on Certs
 
 
