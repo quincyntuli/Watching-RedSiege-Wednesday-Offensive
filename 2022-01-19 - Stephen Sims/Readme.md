@@ -16,9 +16,9 @@
 
 ## Topic - 01 : Exploit Controls on Windows 10 /11
 
-Exploit manipulation security controls in the past had been scaled back. With each successive Windows release, newer controls are being gradually turned on.
+Exploit manipulation security controls in the past had been held back. With each successive Windows release, newer controls are being gradually turned on.
 
-When Microsoft turns security options on, they get criticized and when they don't they look insecure
+When Microsoft turns on security options, they get criticized for breaking legacy compatibility and when they don't they look insecure
 
 
 ### Exploit Mitigation and Security Controls
