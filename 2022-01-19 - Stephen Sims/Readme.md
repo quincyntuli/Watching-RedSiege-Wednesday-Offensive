@@ -14,6 +14,7 @@
 [Twitter ](https://twitter.com/Steph3nSims)<br>
 <hr>
 
+
 ## Topic - 01 : Exploit Controls on Windows 10 /11
 
 Exploit manipulation security controls in the past had been held back. With each successive Windows release, newer controls are being gradually turned on.
@@ -45,6 +46,7 @@ When Microsoft turns on security options, they get criticized for breaking legac
 
 > - Delta patches to deal with 'DLL-Hell'
 > - Hot-patching (function level patching) of live systems to avoid reboots
+
 
 ## Topic - 03 : Kernel  zero day weaponization certification
 
