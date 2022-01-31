@@ -46,6 +46,12 @@ When Microsoft turns on security options, they get criticized for breaking legac
 > - Delta patches to deal with 'DLL-Hell'
 > - Hot-patching (function level patching) of live systems to avoid reboots
 
-## Topic - 03 : Practical Components on Certs
+## Topic - 03 : Kernel  zero day weaponization certification
+
+Stephen talked about "100% practical cert, that is the most advanced cert out there. " You will be expected to weaponize an intentionally vulnerbale windows kernel driver that has been created by SANS. It is a "brutal" exam where you are given only 5 hours to pass.
+
+
+
+
 
 
