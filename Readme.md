@@ -1,6 +1,8 @@
 # Readme
 
-In my cybersecurity journey a great Security Researcher known as [bsdbandit](https://twitter.com/bsdbandit) (Charles Shirer) started showing up on my timeline. I learned that he is  a Senior Security Consultant for Red Siege Information Security. I followed Red Siege on Discord and learned about the Wednesday Offensive, a short 30 minute mini webinar with no slides. 
+In my cybersecurity journey a great Security Researcher known as bsdbandit (Charles Shirer) started showing up on my timeline during his time as a member of Red Siege Information Security.
+
+ I followed Red Siege on Discord and learned about the Wednesday Offensive, a short 30 minute mini webinar with no slides. 
 
 The emphasis is on speaking naturally on various topics on Pentesting, Red Teaming and other defensive operations. The guests are usually high powered and experienced researchers coming from various sectors in Cybersecurity.
 
