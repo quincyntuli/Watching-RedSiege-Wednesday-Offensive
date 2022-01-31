@@ -9,9 +9,9 @@
 
 
 ### Social
-[Youtube](https://www.youtube.com/watch?v=_hsSQKRsUmA&t=233s)
-[LinkedIN](https://www.linkedin.com/in/stephen-sims-2788091/)
-[Twitter ](https://twitter.com/Steph3nSims)
+[Youtube](https://www.youtube.com/watch?v=_hsSQKRsUmA&t=233s)<br>
+[LinkedIN](https://www.linkedin.com/in/stephen-sims-2788091/)<br>
+[Twitter ](https://twitter.com/Steph3nSims)<br>
 
 ### Topic : Exploit Development Windows 10 /11
 - Exploit manipulation security controls in the past had been scaled back. With each successive Windows release, newer controls are being gradually turned on.
