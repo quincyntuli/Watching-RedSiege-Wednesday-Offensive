@@ -20,5 +20,14 @@ So far this year ... :
 
 ## February
 
+| Date        | Guest       |
+| ----------- | ----------- |
+| 2022-02-02  | [Joe DeMesy](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-02%20-%20Joe%20Demesy) |
+|   |  |
+|  |  |
+|  |  |
+
+
+
 ### Note about these notes 
 >These notes were created on obsidian. For best results clone and view within Obsidian. The irony does not escape me given Barrett Darnell stance on parsable notes.
