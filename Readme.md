@@ -18,7 +18,7 @@ So far this year ... :
 | 2022-01-19  | [Stephen Sims](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-01-19%20-%20Stephen%20Sims)                |
 | 2022-01-26 | [Matthew Eidelberg](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-01-26%20-%20Matthew%20Eidelberg)         |
 
-
+## February
 
 ### Note about these notes 
 >These notes were created on obsidian. For best results clone and view within Obsidian. The irony does not escape me given Barrett Darnell stance on parsable notes.
