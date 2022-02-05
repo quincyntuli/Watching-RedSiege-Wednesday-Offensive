@@ -12,4 +12,11 @@ Joe DeMesy is a Principal Consultant at Bishop Fox, a security consulting firm p
 [Twitter ](https://twitter.com/LittleJoeTables)<br>
 [GitHub](https://github.com/moloch)
 <hr>
-## Sliver adversary emulation/red team framework.
+## Sliver 
+
+Joe spoke about [Sliver](https://github.com/BishopFox/sliver) , the open source cross-platform adversary emulation/red team framework.
+
+Sliver is designed to be an open source alternative to Cobalt Strike. Sliver supports asymmetrically encrypted C2 over DNS, HTTP, HTTPS, and Mutual TLS using per-binary X.509 certificates signed by a per-instance certificate authority and supports multiplayer mode for collaboration.
+
+[source](https://bishopfox.com/blog/sliver)
+
