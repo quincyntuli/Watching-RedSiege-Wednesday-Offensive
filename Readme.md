@@ -23,7 +23,7 @@ So far this year ... :
 | Date        | Guest       |
 | ----------- | ----------- |
 | 2022-02-02  | [Joe DeMesy](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-02%20-%20Joe%20Demesy) |
-| 2022-02-09  | [Charlie Clark]() |
+| 2022-02-09  | [Charlie Clark](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-09%20-%20Charlie%20Clark) |
 |  |  |
 |  |  |
 
