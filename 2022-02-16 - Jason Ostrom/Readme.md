@@ -23,4 +23,24 @@
  <br>
 <hr>
 
-### Topic : 
+### Topic : Building Cyberanges
+> Purple Cloud
+> > auto-generate terraform code for Azure active directory pentest lab
+> > spin up a lab dynamically to test password spray as an example
+> > use pythons "users-faker"
+> > support azureAD groups
+> > uses terraform generator
+> > infrastructure as a range simulator
+> > infrastructure as a service terraform creator
+> Blue Cloud
+>> - Build a SIM in the cloud
+
+
+#### Links
+
+> https://www.sans.org/blog/build-hack-defend-azure-identity/
+> https://github.com/iknowjason/PurpleCloud
+> https://developer.microsoft.com/en-us/microsoft-365/dev-program
+> 
+
+
