@@ -5,7 +5,7 @@
 > - Senior IT Security Consultant at ZeroDayLab Ltd
 > - co-developer
 >> -  Rubeus
->> - CrackMapEsec 
+>> - CrackMapExec 
 >> - Impacket
 >> - PowerUpSQL
 > - Speaker at YASCON 2020 - "**Inspecting Kerberos Ticket Requests**"
