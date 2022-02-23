@@ -9,7 +9,7 @@
 
 >
 
-[source](https://www.sans.org/profiles/jason-ostrom/)
+[source](https://www.linkedin.com/in/karl-fosaaen//)
 
 
 ### Social
@@ -19,8 +19,10 @@
  <br>
 <hr>
 
-### Topic : 
->
+### Topic : Azure Security
+> - MicroBurst toolset
+> - Get-AzPasswords
+> - Test environments
 
 
 #### Links
