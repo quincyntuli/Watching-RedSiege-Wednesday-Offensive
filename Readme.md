@@ -25,8 +25,16 @@ So far this year ... :
 | 2022-02-02  | [Joe DeMesy](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-02%20-%20Joe%20Demesy) |
 | 2022-02-09  | [Charlie Clark](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-09%20-%20Charlie%20Clark) |
 | 2022-02-16  | [Jason Ostrom](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-16%20-%20Jason%20Ostrom) |
-| 2022-02-16  |[Karl Fosaaen](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-23%20-%20Karl%20Fosaaen)  |
+| 2022-02-23  |[Karl Fosaaen](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-02-23%20-%20Karl%20Fosaaen)  |
 
+## March
+
+| Date        | Guest       |
+| ----------- | ----------- |
+| 2022-03-02  |  |
+| 2022-03-09  |  |
+| 2022-03-16  |  |
+| 2022-03-23  |  |
 
 
 ### Note about these notes 
