@@ -31,8 +31,8 @@ So far this year ... :
 
 | Date        | Guest       |
 | ----------- | ----------- |
-| 2022-03-02  |  |
-| 2022-03-09  |  |
+| 2022-03-02  | [Chris Elgee](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-03-02%20-%20Chris%20Elgee)  |
+| 2022-03-09  |  []()|
 | 2022-03-16  |  |
 | 2022-03-23  |  |
 
