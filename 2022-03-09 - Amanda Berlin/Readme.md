@@ -10,7 +10,7 @@
 [source](https://www.linkedin.com/in/amandaberlin/)
 
 ### Social
-> - [GitHub](https://github.com/chriselgee)<br>
+> - [GitHub](https://github.com/infosystir)<br>
 > - [LinkedIN](https://www.linkedin.com/in/amandaberlin/)<br>
 > - [Twitter ](https://twitter.com/InfoSystir)
  <br>
