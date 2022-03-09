@@ -6,6 +6,7 @@
 > - Lead Incident Detection Engineer at Blumira
 > - CEO Mental Health Hackers
 > - Co-Author :  [Defensive Security Handbook: Best Practices for Securing Infrastructure](https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
+> -  Co-host : [Brakeing Down Security Podcast](https://pca.st/eL9W)
 
 [source](https://www.linkedin.com/in/amandaberlin/)
 
@@ -17,8 +18,10 @@
 <hr>
 
 ### Topic : 
-> - 
+> - Managing and developing detections.
 
 
 #### Links
-> -
+> - [Keberoas Detection](https://github.com/Blumira/Kerberoast-Detection)
+> - [Honeypot Account Creation](https://www.hub.trimarcsecurity.com/post/the-art-of-the-honeypot-account-making-the-unusual-look-normal)
+> - 
