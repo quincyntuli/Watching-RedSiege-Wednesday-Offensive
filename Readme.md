@@ -34,7 +34,7 @@ So far this year ... :
 | 2022-03-02  | [Chris Elgee](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-03-02%20-%20Chris%20Elgee)  |
 | 2022-03-09  | [Amanda Berlin](https://github.com/quincyntuli/RedSiege-Wednesday-Offensive/tree/main/2022-03-09%20-%20Amanda%20Berlin)|
 | 2022-03-16  | [Heather Smith](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-03-16%20-%20Heather%20Smith) |
-| 2022-03-23  |  |
+| 2022-03-23  | [Rob Fuller](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-03-23%20-%20Rob%20Fuller) |
 
 
 ### Note about these notes 
