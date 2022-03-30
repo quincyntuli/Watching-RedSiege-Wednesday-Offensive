@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-03-23 - Rob Fuller/Readme.md",
+            "file": "2022-03-30 - Carlos Perez/Readme.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Carlos Perez\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-03-23 - Rob Fuller/Readme.md",
+                "file": "2022-03-30 - Carlos Perez/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "98eb85158ddc03c3",
   "lastOpenFiles": [
+    "2022-03-30 - Carlos Perez/Readme.md",
     "2022-03-23 - Rob Fuller/Readme.md",
     "Readme.md",
-    "2022-03-16 - Heather Smith/Readme.md",
-    "2022-03-09 - Amanda Berlin/Readme.md",
-    "2022-03-02 - Chris Elgee/Readme.md",
-    "2022-02-23 - Karl Fosaaen/Readme.md",
     "2022-02-16 - Jason Ostrom/Readme.md",
-    "2022-01-26 - Matthew Eidelberg/Readme.md",
+    "2022-02-23 - Karl Fosaaen/Readme.md",
+    "2022-02-09 - Charlie Clark/Readme.md",
     "2022-02-02 - Joe Demesy/Readme.md",
-    "2022-02-09 - Charlie Clark/Readme.md"
+    "2022-01-26 - Matthew Eidelberg/Readme.md",
+    "2022-01-05 - Stephanie Snow Carruthers/Readme.md",
+    "2022-01-12 - Barrett Darnell/Readme.md"
   ]
 }

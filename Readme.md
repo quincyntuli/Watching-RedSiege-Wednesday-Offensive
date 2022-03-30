@@ -7,6 +7,10 @@ In my cybersecurity journey a great Security Researcher known as bsdbandit (Char
 The emphasis is on speaking naturally on various topics on Pentesting, Red Teaming and other defensive operations. The guests are usually high powered and experienced researchers coming from various sectors in Cybersecurity.
 
 This year (2022) I decided to take notes with each guest presenter.
+
+Please recognise that these are my notes and any inaccuracies represented here are my own and not those of RedSiege Information Security. So If I mess up here it is my fault not theirs ok?
+
+
 So far this year ... :
 
 ## January
