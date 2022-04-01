@@ -16,12 +16,14 @@
  <br>
 
  ### Topic : 
+> - WMI Capability
 > - 
 
 
 #### Links :
 
-> - 
+> - [Shell is only the beginning](https://www.darkoperator.com/blog/2022/3/27/tracking-wmi-activity-with-psgumshoe)
+
 
 
 
