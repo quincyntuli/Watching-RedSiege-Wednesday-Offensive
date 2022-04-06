@@ -42,6 +42,20 @@ So far this year ... :
 | 2022-03-30  | [Carlos Perez](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-03-30%20-%20Carlos%20Perez) |
 
 
+## April
+
+| Date        | Guest       |
+| ----------- | ----------- |
+| 2022-04-06  | [Maril Vernon](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive)  |
+|   |  |
+|   |  |
+|   |  |
+|   |  |
+
+
+
+
+
 
 ### Note about these notes 
 >These notes were created on obsidian. For best results clone and view within Obsidian. The irony does not escape me given Barrett Darnell stance on parsable notes.
