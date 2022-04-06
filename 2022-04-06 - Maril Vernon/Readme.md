@@ -3,6 +3,7 @@
 
 ### Who she is :
 
+> - Senior Security Engineer at Aquia
 > - Pentester
 > - Public Speaker
 > - PluralSight author with courses published on Red Team tools and MITRE-driven testing methods. 
@@ -12,11 +13,20 @@
 ### Social :
 > - [GitHub](https://github.com/shewhohacks)<br>
 > - [LinkedIN](linkedin.com/in/marilvernon/)<br>
-> - [Twitter ](https://twitter.com/Maril_ExperisIT)> - 
- <br>
+> - [Twitter ](https://twitter.com/shewhohacks)> 
 
+ <br>
  ### Topic : 
+> - Dedicated Purple Teaming
+
+ ### Mentions : 
+> - On the grandscale of the heatmap, how many of the defenses are functioning as intended and howmany of the gaps can you fill in.
+> - Making the Killchain not to work the next time around.
+> - "Risk Registers go to die"
+> -  Security can only advice IT Ops, Security is a reporting funciton.
 > - 
+
+
 
 
 #### Links :
