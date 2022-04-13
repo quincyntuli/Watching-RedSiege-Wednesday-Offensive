@@ -3,12 +3,14 @@
 
 
 ### Who he is :
-> - Chief Operations Officer at SpecterOps
+> - Father. Husband. COO at SpecterOps
 
-[source](https://www.linkedin.com/in/amandaberlin/)
+[source](https://twitter.com/jasonjfrank)
 
 ### Social
-> -  <br>
+> -  [LinkedIN](https://www.linkedin.com/in/jasonjfrank/)
+> - [Twitter](https://twitter.com/jasonjfrank)
+> - <br>
 <hr>
 
 ### Topic : 
