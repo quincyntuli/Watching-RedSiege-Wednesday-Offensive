@@ -48,8 +48,8 @@ So far this year ... :
 | ----------- | ----------- |
 | 2022-04-06  | [Maril Vernon](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-06%20-%20Maril%20Vernon)  |
 | 2022-04-13  | [Jason Frank](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-13%20-%20Jason%20Frank) |
-|   |  |
-| 2022-04-27 |  |
+| 2022-04-20  | [Chris Truncer](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-20%20-%20Chris%20Truncer) |
+| 2022-04-27  | [Kat Traxler](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-27%20-%20Kat%20Traxler) |
 |   |  |
 
 
