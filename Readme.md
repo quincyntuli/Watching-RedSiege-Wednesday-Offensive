@@ -49,7 +49,7 @@ So far this year ... :
 | 2022-04-06  | [Maril Vernon](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-06%20-%20Maril%20Vernon)  |
 | 2022-04-13  | [Jason Frank](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-04-13%20-%20Jason%20Frank) |
 |   |  |
-|   |  |
+| 2022-04-27 |  |
 |   |  |
 
 
