@@ -60,7 +60,7 @@ So far this year ... :
 | Date        | Guest       |
 | ----------- | ----------- |
 | 2022-05-11  | [Derek Rook](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-05-11%20-%20Derek%20Rook)|
-| 2022-05-18  | Shaun McCullough|
+| 2022-05-18  | [Shaun McCullough](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-05-18%20-%20Shaun%20McCullough)
 | 2022-05-25  | |
 
 
