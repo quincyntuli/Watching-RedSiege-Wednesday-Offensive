@@ -64,6 +64,16 @@ So far this year ... :
 | 2022-05-25  | |
 
 
+## April
+
+| Date        | Guest       |
+| ----------- | ----------- |
+| 2022-06-01  | [Kevin Johnson](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-06-01%20-%20Kevin%20Johnson)  |
+| 2022-06-08  | [Katie Knowles](https://github.com/quincyntuli/Watching-RedSiege-Wednesday-Offensive/tree/main/2022-06-08%20-%20Katie%20Knowles) |
+| 2022-06-15  |  |
+| 2022-06-22  |  |
+| 2022-06-29  |  |
+
 
 
 
